@@ -1,0 +1,19 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "mern project",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PankajKumar9771/bookStoreApp.git"
+  },
+  "author": "Pankaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PankajKumar9771/bookStoreApp/issues"
+  },
+  "homepage": "https://github.com/PankajKumar9771/bookStoreApp#readme"
+}
